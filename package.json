@@ -1,0 +1,30 @@
+{
+  "name": "pato-musica",
+  "version": "6.6.6",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Krauz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord": "^0.8.2",
+    "discord.js": "^12.3.1",
+    "download-file": "^0.1.5",
+    "ffbinaries": "^1.1.4",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "gif-to-apng": "^0.1.2",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7",
+    "uuid": "^8.3.0",
+    "yt-search": "^2.2.2",
+    "ytdl-core": "^4.4.3",
+    "ytdl-core-discord": "^1.2.1"
+  },
+  "devDependencies": {},
+  "description": "AMPK"
+}
